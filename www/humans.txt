@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# GONG BANGERZ
+
+    Zach Halvorson - Thought Leader
+
+# THANKS
+
+    Mobify Hackathon Team 2016
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Surge.sh
